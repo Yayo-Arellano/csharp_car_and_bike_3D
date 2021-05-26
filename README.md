@@ -2,7 +2,7 @@
 
 This app was made when I was still a student. Maybe around the year 2010 - 2011. 
 
-I was able to run it in Visual Studio 2019 but you must install [freeglut.](https://www.transmissionzero.co.uk/software/freeglut-devel) 
+To run it on Visual Studio 2019 but you must install [freeglut.](https://www.transmissionzero.co.uk/software/freeglut-devel) 
 
 # Watch in youtube
 Bike: [https://youtu.be/mEPhWhLPJq0](https://youtu.be/mEPhWhLPJq0)
