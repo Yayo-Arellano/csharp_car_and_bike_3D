@@ -41,8 +41,8 @@ namespace ProyectoGraficacion
         {
             Glut.glutInit();
             Glut.glutInitDisplayMode(Glut.GLUT_DOUBLE | Glut.GLUT_RGB | Glut.GLUT_DEPTH);
-            Glut.glutInitWindowSize(1280, 960);
-            Glut.glutInitWindowPosition(300, 25);
+            Glut.glutInitWindowSize(640, 480);
+            Glut.glutInitWindowPosition(100, 100);
             Glut.glutCreateWindow("Car in 3D by Yayo");
             Glut.glutKeyboardFunc(keyboardDown);
             Glut.glutKeyboardUpFunc(keyboardUp);
@@ -57,7 +57,7 @@ namespace ProyectoGraficacion
             Gl.glEnable(Gl.GL_DEPTH_TEST); //para eliminar las caras ocultas
             Gl.glEnable(Gl.GL_NORMALIZE); //normaliza el vector para ombrear apropiadamente
             Gl.glClearColor(1.0f, 1.0f, 1.0f, 0.0f); //El color de fondo es gris
-            Gl.glViewport(0, 0, 1280, 960);
+            Gl.glViewport(0, 0, 640, 480);
             stopWatch.Start();
             Glut.glutMainLoop();
 

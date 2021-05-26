@@ -43,7 +43,7 @@ namespace ProyectoGraficacion
             Glut.glutInitDisplayMode(Glut.GLUT_DOUBLE | Glut.GLUT_RGB | Glut.GLUT_DEPTH);
             Glut.glutInitWindowSize(640, 480);
             Glut.glutInitWindowPosition(100, 100);
-            Glut.glutCreateWindow("Ejemplo de escena 3d");
+            Glut.glutCreateWindow("Bike in 3D by Yayo");
             Glut.glutKeyboardFunc(keyboardDown);
             Glut.glutKeyboardUpFunc(keyboardUp);
             Glut.glutMotionFunc(onMotion);
