@@ -5,7 +5,7 @@ This app was made when I was still a student. Maybe around the year 2010 - 2011.
 To run it on Visual Studio 2019 you must install [freeglut.](https://www.transmissionzero.co.uk/software/freeglut-devel) 
 
 # Watch in youtube
-Bike: [https://youtu.be/mEPhWhLPJq0](https://youtu.be/mEPhWhLPJq0)
+Bike: [https://youtu.be/9mnpC5iBFVk](https://youtu.be/9mnpC5iBFVk)
 
 Car: [https://youtu.be/mEPhWhLPJq0](https://youtu.be/mEPhWhLPJq0)
 
